@@ -4,8 +4,12 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-abdulhamid-052244230)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/triblex) 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0158579418b57b95a7)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/triblex)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0158579418b57b95a7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/0x100/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:mahmoudabdulhamid22@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/0x100)
+ 
 
 
 
