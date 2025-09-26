@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+LLMOps+Specialist;Production-Ready+RAG+Systems;Multi-Agent+%26+Generative+AI;Full-Stack+AI+Application+Developer)](https://git.io/typing-svg)
 
-[![CV](https://img.shields.io/badge/View%20My%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)]([https://your-cv-link-here.com](https://drive.google.com/file/d/1q3JjNL-FMlyAGaJfEqmjaRQTgcJRXd3b/view?usp=sharing))
+[![CV](https://img.shields.io/badge/View%20My%20CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1q3JjNL-FMlyAGaJfEqmjaRQTgcJRXd3b/view?usp=sharing)
+
 
 
 </div>
