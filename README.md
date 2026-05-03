@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0A1628,100:00D4FF&height=250&section=header&text=Mahmoud%20Abdulhamid&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20LLMOps%20%E2%80%A2%20RAG%20Architect&descAlignY=60&descSize=20&descColor=00D4FF&animation=fadeIn" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A1628,100:00D4FF&height=250&section=header&text=Mahmoud%20Abdulhamid&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20LLMOps%20%E2%80%A2%20RAG%20Architect&descAlignY=62&descSize=20&descColor=00D4FF&animation=fadeIn" />
+</div>
 
 <div align="center">
 
@@ -83,11 +85,11 @@ superpower: "Turning LLM demos into production systems"
 
 <div align="center">
 
-<a href="https://github.com/0Xuser100">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=Enterprise-RAG-Platform&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
+<a href="https://github.com/0Xuser100/AnimeGPT-LLMOps">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=AnimeGPT-LLMOps&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
 </a>
-<a href="https://github.com/0Xuser100">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=Medical-RAG-Chatbot&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
+<a href="https://github.com/0Xuser100/AskPDF-RAG-DeepSeek-R1-32B-LangChain">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=AskPDF-RAG-DeepSeek-R1-32B-LangChain&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
 </a>
 
 </div>
@@ -226,4 +228,6 @@ mindmap
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0A1628,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0A1628,100:0D1117&height=120&section=footer&animation=fadeIn" />
+</div>
