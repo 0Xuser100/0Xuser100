@@ -1,19 +1,23 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A1628,100:00D4FF&height=250&section=header&text=Mahmoud%20Abdulhamid&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20LLMOps%20%E2%80%A2%20RAG%20Architect&descAlignY=62&descSize=20&descColor=00D4FF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A1628,100:00D4FF&height=230&section=header&text=Mahmoud%20Abdulhamid&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20LLMOps%20%E2%80%A2%20RAG%20%26%20Multi-Agent%20Systems&descAlignY=60&descSize=18&descColor=00D4FF&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Building+Production-Ready+RAG+Systems;🤖+Designing+Multi-Agent+AI+Architectures;🔍+LLMOps+%7C+Evaluation+%7C+Observability;💡+Turning+Research+into+Real+AI+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=620&lines=Production+RAG%2C+not+demos;Multi-Agent+systems+that+stay+up;LLMOps%3A+eval%2C+tracing%2C+observability;MCP+%7C+LangGraph+%7C+Dapr+%7C+Temporal)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://showcase-so-good--mahmoudabdulha2.replit.app/#contact">
-  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO%20%E2%80%94%20View%20My%20Work-FF6B6B?style=for-the-badge&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO%20%E2%80%94%20View%20My%20Work-FF6B6B?style=for-the-badge&logoColor=white" height="42"/>
 </a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1r6uyzLukdPzAfG7ti8etP_xqhSu6jyeO/view?usp=sharing">
-  <img src="https://img.shields.io/badge/📄%20RESUME%20%E2%80%94%20Download%20CV-0A66C2?style=for-the-badge&logoColor=white" height="42"/>
+<a href="https://drive.google.com/drive/folders/1MXOHkphCM99fjQMsz502THNAcvH4KqMm">
+  <img src="https://img.shields.io/badge/%F0%9F%93%84%20RESUME%20%E2%80%94%20Download%20CV-0A66C2?style=for-the-badge&logoColor=white" height="42"/>
+</a>
+&nbsp;
+<a href="mailto:mahmoudabdulhamid22@gmail.com">
+  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20HIRE%20ME-1C3C3C?style=for-the-badge&logoColor=white" height="42"/>
 </a>
 
 <br/><br/>
@@ -27,69 +31,82 @@
 
 ## 👨‍💻 Who Am I?
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" />
 
 ```yaml
 name:     Mahmoud Abdulhamid
-role:     AI Engineer & LLMOps Specialist
-location: Egypt 🇪🇬
+role:     AI Engineer @ ThinkTech
+location: Egypt 🇪🇬  (remote-friendly)
 focus:
-  - Production-grade RAG Systems
-  - Multi-Agent AI Architectures
-  - LLM Evaluation & Observability
-currently_building:
-  - Enterprise document intelligence platforms
-  - Financial & Medical AI assistants
+  - Production RAG over messy real documents
+  - Multi-agent backends (Dapr, MCP, Temporal)
+  - LLM evaluation, tracing & observability
+shipping_now:
+  - Saudi lending & credit analysis engine
+  - Multi-agent brokerage chat backend
+  - Edge-native company research platform
+also:
+  - Kaggle Expert · ECPC coach · 1000+ solved
 open_to:
-  - Freelance AI projects
+  - Freelance & contract AI work
   - Research collaborations
-  - Open-source contributions
-superpower: "Turning LLM demos into production systems"
+superpower: "Turning LLM demos into systems that survive prod"
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💼 Experience
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,r&theme=dark&perline=10" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### AI / ML / LLMOps
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,flask,docker,kubernetes&theme=dark&perline=10" />
+**🏢 AI Engineer — ThinkTech**
+`Jun 2025 → Present`
 
-<br/>
+Async FastAPI RAG services for financial & brokerage
+domains: Document AI OCR ingestion, Qdrant retrieval,
+Dapr multi-agent orchestration over SSE, shipped on
+Azure AKS with ArgoCD GitOps.
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00D4FF)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=7FDBFF)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq_Cloud-F55036?style=for-the-badge&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-4B8BBE?style=for-the-badge&logoColor=white)
-![Ragas](https://img.shields.io/badge/Ragas-00897B?style=for-the-badge&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,linux&theme=dark&perline=10" />
+**🌍 Remote AI / ML Engineer — Freelance**
+`Jul 2022 → Present`
+
+Backend lead on a medical-insurance claim validation
+platform (Gemini Vision OCR → RabbitMQ workers →
+async Postgres, 13+ endpoints, JWT/RBAC, 80+ tests).
+Plus AI courses on Udemy & Udacity.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 <div align="center">
 
-<a href="https://github.com/0Xuser100/AnimeGPT-LLMOps">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=AnimeGPT-LLMOps&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
+<a href="https://github.com/0Xuser100/OrionIntel">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=OrionIntel&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
 </a>
-<a href="https://github.com/0Xuser100/AskPDF-RAG-DeepSeek-R1-32B-LangChain">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=AskPDF-RAG-DeepSeek-R1-32B-LangChain&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
+<a href="https://github.com/0Xuser100/Temporal-ai-agent">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=Temporal-ai-agent&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
+</a>
+<a href="https://github.com/0Xuser100/AnimeGPT-LLMOps">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=AnimeGPT-LLMOps&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
+</a>
+<a href="https://github.com/0Xuser100/medical-rag-chatbot">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=medical-rag-chatbot&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
 </a>
 
 </div>
@@ -99,39 +116,89 @@ superpower: "Turning LLM demos into production systems"
 <table align="center" width="100%">
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏢-Enterprise_RAG-00D4FF?style=for-the-badge" /><br/><br/>
-<b>Enterprise RAG Platform</b><br/><br/>
-Multi-document FastAPI service with OCR, semantic chunking & vector embeddings<br/><br/>
+<img src="https://img.shields.io/badge/%F0%9F%92%B9-SaudiLendGateAI-00D4FF?style=for-the-badge" /><br/><br/>
+<b>AI Financial Statement Analyzer</b><br/><br/>
+14+ analysis types over PDF/XLSX/Word for Saudi lending & credit decisions — Document AI OCR, Qdrant, job queue, webhooks<br/><br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏥-Medical_AI-FF6B6B?style=for-the-badge" /><br/><br/>
-<b>Medical RAG Chatbot</b><br/><br/>
-Clinical Q&A assistant with FAISS retrieval, memory & full Langfuse telemetry<br/><br/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/%F0%9F%A4%96-MCP--Borsa-7FDBFF?style=for-the-badge" /><br/><br/>
+<b>Multi-Agent Brokerage Backend</b><br/><br/>
+Supervisor agent delegating to RAG + read-only SQL sub-agents, streamed over SSE, durable workflows checkpointed to Redis<br/><br/>
+<img src="https://img.shields.io/badge/Dapr-0D2192?style=flat-square&logo=dapr&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/AKS_+_ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/%F0%9F%94%8D-Baseera-6FDA44?style=for-the-badge" /><br/><br/>
+<b>AI Company Research Platform</b><br/><br/>
+1,000+ companies per batch via domain-restricted agentic web search, running fully on the Cloudflare edge<br/><br/>
+<img src="https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Workers_D1_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Langfuse-4B8BBE?style=flat-square"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/💹-Finance_AI-6FDA44?style=for-the-badge" /><br/><br/>
-<b>Multi-Agent Financial Researcher</b><br/><br/>
-Orchestrated Phidata agents for live market data & news with Groq inference<br/><br/>
-<img src="https://img.shields.io/badge/Phidata-6C3483?style=flat-square"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
-<img src="https://img.shields.io/badge/YFinance-0052CC?style=flat-square"/>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎌-AnimeGPT-FFA116?style=for-the-badge" /><br/><br/>
-<b>AnimeGPT LLMOps</b><br/><br/>
-RAG recommender with Docker + K8s deployment, Grafana monitoring & tracing<br/><br/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%A5-SmartClaim-FF6B6B?style=for-the-badge" /><br/><br/>
+<b>Medical Claim Validation</b><br/><br/>
+Prescription OCR → clinical & policy rules → approve / reject / flag, bilingual EN-AR, event-driven with DLQ + idempotent retries<br/><br/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </td>
 </tr>
 </table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,ts,cpp,r,postgres&theme=dark&perline=10" />
+
+### Agents, LLMs & Retrieval
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00D4FF)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=7FDBFF)
+![Dapr Agents](https://img.shields.io/badge/Dapr_Agents-0D2192?style=for-the-badge&logo=dapr&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-1E88E5?style=for-the-badge&logoColor=white)
+<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--5-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_/_Vertex_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_Cloud-F55036?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logoColor=white)
+
+### Evaluation & Observability
+![Langfuse](https://img.shields.io/badge/Langfuse-4B8BBE?style=for-the-badge&logoColor=white)
+![Ragas](https://img.shields.io/badge/Ragas-00897B?style=for-the-badge&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Document AI & OCR
+![Document AI](https://img.shields.io/badge/Google_Document_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-DB4437?style=for-the-badge&logoColor=white)
+![Unstructured](https://img.shields.io/badge/Unstructured-2E3440?style=for-the-badge&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO_DocLayNet-111F68?style=for-the-badge&logoColor=white)
+
+### Backend, Data & Deep Learning
+<img src="https://skillicons.dev/icons?i=fastapi,flask,rabbitmq,mongodb,mysql,redis,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=10" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,cloudflare,githubactions,linux,git&theme=dark&perline=10" />
+<br/>
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Azure AKS](https://img.shields.io/badge/Azure_AKS-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</div>
 
 ---
 
@@ -167,29 +234,18 @@ RAG recommender with Docker + K8s deployment, Grafana monitoring & tracing<br/><
 
 ---
 
-## 🧠 Current Learning Journey
+## 🎓 Education & Achievements
 
-```mermaid
-mindmap
-  root((🧠 Mahmoud))
-    LLMOps
-      RAG Evaluation
-      Langfuse + Ragas
-      Prompt Engineering
-      LLM Fine-tuning
-    Architecture
-      Multi-Agent Systems
-      Agentic Pipelines
-      Graph RAG
-    Infrastructure
-      MLOps & CI/CD
-      K8s + Docker
-      Cloud Native AI
-    Research
-      NLP Transformers
-      Computer Vision
-      Generative AI
-```
+<div align="center">
+
+| | |
+|:--|:--|
+| 🎓 **B.S. Computer Science** — Menoufia University, Egypt (2020 – 2024) | **GPA 3.65 / 4.0** · Excellent with Honors · **Ranked 7th** in college |
+| 🏅 **Kaggle Expert** | NLP, ML, Computer Vision & Generative AI competitions |
+| 🏆 **ECPC** — competed 2020 – 2024, **coach since 2024** | Mentoring the next batch of competitive programmers |
+| 🧩 **1000+ problems solved** on Codeforces & LeetCode | 20+ high-level contests, top 10% in several |
+
+</div>
 
 ---
 
@@ -198,7 +254,7 @@ mindmap
 <div align="center">
 
 <a href="https://showcase-so-good--mahmoudabdulha2.replit.app/#contact">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" height="38"/>
 </a>
 <a href="https://linkedin.com/in/mahmoud-abdulhamid-052244230">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
@@ -212,14 +268,14 @@ mindmap
 
 <br/><br/>
 
+<a href="https://www.kaggle.com/triblex">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35"/>
+</a>
 <a href="https://leetcode.com/u/0x100/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
 </a>
 <a href="https://codeforces.com/profile/0x100">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35"/>
-</a>
-<a href="https://www.kaggle.com/triblex">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35"/>
 </a>
 
 <br/><br/>
