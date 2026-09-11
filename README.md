@@ -160,7 +160,7 @@ Clinical Q&A assistant with FAISS retrieval, conversational memory and end-to-en
 
 <div align="center">
 <a href="https://github.com/0Xuser100?tab=repositories">
-<img src="https://img.shields.io/badge/Browse%20all%2084%2B%20repositories%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF&labelColor=0D1117" height="34"/>
+<img src="https://img.shields.io/badge/Browse%20all%20repositories-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF&labelColor=0D1117" height="34"/>
 </a>
 </div>
 
@@ -248,8 +248,8 @@ Prescription OCR → clinical & policy rules → approve / reject / flag, biling
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,cloudflare,githubactions,linux,git&theme=dark&perline=10" />
 <br/>
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Azure AKS](https://img.shields.io/badge/Azure_AKS-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+<img src="https://img.shields.io/badge/Azure_AKS-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AKS"/>
 
 </div>
 
