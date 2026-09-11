@@ -1,26 +1,24 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A1628,100:00D4FF&height=230&section=header&text=Mahmoud%20Abdulhamid&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20LLMOps%20%E2%80%A2%20RAG%20%26%20Multi-Agent%20Systems&descAlignY=60&descSize=18&descColor=00D4FF&animation=fadeIn" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Xuser100/0Xuser100/main/assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Xuser100/0Xuser100/main/assets/hero-light.svg" />
+  <img alt="Mahmoud Abdulhamid — AI engineer, production RAG and multi-agent systems" src="https://raw.githubusercontent.com/0Xuser100/0Xuser100/main/assets/hero-dark.svg" width="100%" />
+</picture>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%">
+<a href="https://showcase-so-good--mahmoudabdulha2.replit.app/#contact"><img src="https://img.shields.io/badge/See%20my%20work-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>
+</td>
+<td align="center" width="33%">
+<a href="https://drive.google.com/drive/folders/1MXOHkphCM99fjQMsz502THNAcvH4KqMm"><img src="https://img.shields.io/badge/Download%20my%20CV-0A66C2?style=for-the-badge&logo=readdotcv&logoColor=white" height="40"/></a>
+</td>
+<td align="center" width="33%">
+<a href="mailto:mahmoudabdulhamid22@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20project-0B0F14?style=for-the-badge&logo=maildotru&logoColor=00D4FF&labelColor=0B0F14" height="40"/></a>
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=620&lines=Production+RAG%2C+not+demos;Multi-Agent+systems+that+stay+up;LLMOps%3A+eval%2C+tracing%2C+observability;MCP+%7C+LangGraph+%7C+Dapr+%7C+Temporal)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://showcase-so-good--mahmoudabdulha2.replit.app/#contact">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO%20%E2%80%94%20View%20My%20Work-FF6B6B?style=for-the-badge&logoColor=white" height="42"/>
-</a>
-&nbsp;
-<a href="https://drive.google.com/drive/folders/1MXOHkphCM99fjQMsz502THNAcvH4KqMm">
-  <img src="https://img.shields.io/badge/%F0%9F%93%84%20RESUME%20%E2%80%94%20Download%20CV-0A66C2?style=for-the-badge&logoColor=white" height="42"/>
-</a>
-&nbsp;
-<a href="mailto:mahmoudabdulhamid22@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20HIRE%20ME-1C3C3C?style=for-the-badge&logoColor=white" height="42"/>
-</a>
-
-<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0Xuser100&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/0Xuser100?color=00D4FF&style=for-the-badge&logo=github&label=FOLLOWERS)
@@ -124,6 +122,17 @@ Durable contract-review pipeline on Temporal — parent workflow fans out a chil
 <tr>
 <td width="50%" valign="top">
 
+#### [💬 Telegram Data Analyst Agent](https://github.com/0Xuser100/telegram-data-analyst-agent)
+Send it a CSV. It writes its own Python, runs it, charts the result and sends back a summary — asking you before every file write and shell command. Built on Deep Agents, 554 tests.
+
+![Deep Agents](https://img.shields.io/badge/Deep_Agents-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![pytest](https://img.shields.io/badge/554_tests-0A9396?style=flat-square&logo=pytest&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 #### [🎌 AnimeGPT-LLMOps](https://github.com/0Xuser100/AnimeGPT-LLMOps)
 RAG recommender shipped the full LLMOps way — Docker + Kubernetes deployment, Langfuse tracing and Grafana Cloud monitoring.
 
@@ -133,6 +142,8 @@ RAG recommender shipped the full LLMOps way — Docker + Kubernetes deployment, 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### [🏥 Medical RAG Chatbot](https://github.com/0Xuser100/medical-rag-chatbot)
@@ -335,5 +346,5 @@ Prescription OCR → clinical & policy rules → approve / reject / flag, biling
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0A1628,100:0D1117&height=120&section=footer&animation=fadeIn" />
+<sub>Open to freelance and contract work. The fastest way to reach me is <a href="mailto:mahmoudabdulhamid22@gmail.com">email</a>.</sub>
 </div>
