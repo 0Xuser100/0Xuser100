@@ -94,24 +94,66 @@ Plus AI courses on Udemy & Udacity.
 
 ## 🚀 Featured Work
 
+### 🔓 Open Source
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### [🧠 OrionIntel](https://github.com/0Xuser100/OrionIntel)
+Modular RAG platform for company files, finance reports and books — layered architecture, async MongoDB persistence, pluggable LLM & vector-DB provider factories.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Motor-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### [⏳ Temporal AI Agent](https://github.com/0Xuser100/Temporal-ai-agent)
+Durable contract-review pipeline on Temporal — parent workflow fans out a child per S3 PDF, synthesizes a risk report, then pauses for human approval via Signals, Queries & Updates.
+
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [🎌 AnimeGPT-LLMOps](https://github.com/0Xuser100/AnimeGPT-LLMOps)
+RAG recommender shipped the full LLMOps way — Docker + Kubernetes deployment, Langfuse tracing and Grafana Cloud monitoring.
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square)
+![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### [🏥 Medical RAG Chatbot](https://github.com/0Xuser100/medical-rag-chatbot)
+Clinical Q&A assistant with FAISS retrieval, conversational memory and end-to-end Langfuse telemetry.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-4B8BBE?style=flat-square)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<a href="https://github.com/0Xuser100/OrionIntel">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=OrionIntel&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
+<a href="https://github.com/0Xuser100?tab=repositories">
+<img src="https://img.shields.io/badge/Browse%20all%2084%2B%20repositories%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF&labelColor=0D1117" height="34"/>
 </a>
-<a href="https://github.com/0Xuser100/Temporal-ai-agent">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=Temporal-ai-agent&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
-</a>
-<a href="https://github.com/0Xuser100/AnimeGPT-LLMOps">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=AnimeGPT-LLMOps&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
-</a>
-<a href="https://github.com/0Xuser100/medical-rag-chatbot">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Xuser100&repo=medical-rag-chatbot&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B6B" />
-</a>
-
 </div>
 
-<br/>
+### 🏢 Professional Work
 
 <table align="center" width="100%">
 <tr>
@@ -206,17 +248,25 @@ Prescription OCR → clinical & policy rules → approve / reject / flag, biling
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0Xuser100&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00D4FF&icon_color=FF6B6B&text_color=7FDBFF&bg_color=0D1117" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=0Xuser100&theme=tokyonight&hide_border=true&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&background=0D1117&sideLabels=7FDBFF" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0Xuser100&theme=tokyonight" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Xuser100&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&title_color=00D4FF&text_color=7FDBFF&bg_color=0D1117" />
-<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=0Xuser100&theme=tokyo-night&hide_border=true&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&area_color=00D4FF" />
+<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0Xuser100&theme=tokyonight" />
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0Xuser100&theme=tokyonight" />
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0Xuser100&theme=tokyonight" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=0Xuser100&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=00D4FF" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=0Xuser100&theme=tokyonight&hide_border=true&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&background=0D1117&sideLabels=7FDBFF" />
+
+<br/><br/>
+
+<img width="90%" src="https://ghchart.rshah.org/00D4FF/0Xuser100" alt="0Xuser100 contribution chart" />
+
+<br/><br/>
+
+<img src="https://github-trophies.vercel.app/?username=0Xuser100&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=00D4FF" />
 
 </div>
 
