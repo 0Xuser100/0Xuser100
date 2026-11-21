@@ -10,7 +10,7 @@
 <a href="https://0xuser100.github.io/"><img src="https://img.shields.io/badge/See%20my%20work-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/0Xuser100/0Xuser100/raw/refs/heads/main/Mahmoud_Abdelhamid_AI_Engineer_upwork.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-0A66C2?style=for-the-badge&logo=readdotcv&logoColor=white" height="40"/></a>
+<a href="https://github.com/0Xuser100/0Xuser100/raw/refs/heads/main/Mahmoud_Abdelhamid_CV.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-0A66C2?style=for-the-badge&logo=readdotcv&logoColor=white" height="40"/></a>
 </td>
 <td align="center" width="33%">
 <a href="mailto:mahmoudabdulhamid22@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20project-0B0F14?style=for-the-badge&logo=maildotru&logoColor=00D4FF&labelColor=0B0F14" height="40"/></a>
